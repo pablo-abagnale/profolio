@@ -1,0 +1,11 @@
+.bt{
+    color: white;
+    background-color: rgb(71, 169, 221);
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    font-size: 12px;
+}
+.encabezado{
+    font-weight: bold;
+}
